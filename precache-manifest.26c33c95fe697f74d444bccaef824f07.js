@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b9bc174d919a0a79bad67ef38defc916",
+    "revision": "db0bc7bff7030da9071ccb856cde65c1",
     "url": "/index.html"
   },
   {
-    "revision": "adfa456beb0c45969c40",
-    "url": "/static/css/main.9d930b8c.chunk.css"
+    "revision": "13447b0da02e42caa485",
+    "url": "/static/css/main.f793da3f.chunk.css"
   },
   {
-    "revision": "22bd302967e8d6d112a5",
-    "url": "/static/js/2.4719e1fb.chunk.js"
+    "revision": "b2f33eee6b2f3d067f1f",
+    "url": "/static/js/2.748a2602.chunk.js"
   },
   {
     "revision": "c6d01cb19213691bc81a274434d00fe7",
-    "url": "/static/js/2.4719e1fb.chunk.js.LICENSE"
+    "url": "/static/js/2.748a2602.chunk.js.LICENSE"
   },
   {
-    "revision": "adfa456beb0c45969c40",
-    "url": "/static/js/main.b35655e0.chunk.js"
+    "revision": "13447b0da02e42caa485",
+    "url": "/static/js/main.1d00af69.chunk.js"
   },
   {
     "revision": "c0d7c58e510620f2f64c",
@@ -36,12 +36,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/GoogleTimer.668e5a3a.png"
   },
   {
+    "revision": "1b9fddea66ab30aa3bc14c0bb5ef0a8a",
+    "url": "/static/media/ImageCollection.1b9fddea.png"
+  },
+  {
     "revision": "9920b2f97e3923821bc052b42f8bb81c",
     "url": "/static/media/Marksrecorder.9920b2f9.png"
   },
   {
     "revision": "cbb3bf7d1da0442e05877f5e3e2811f9",
     "url": "/static/media/OMDB.cbb3bf7d.png"
+  },
+  {
+    "revision": "002b548c431fab6a912b4156460966ed",
+    "url": "/static/media/Task_Tracker.002b548c.png"
   },
   {
     "revision": "c368fb8187c8cd566571d2967e5d05ed",
