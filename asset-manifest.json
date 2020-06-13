@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.f793da3f.chunk.css",
-    "main.js": "/static/js/main.1d00af69.chunk.js",
-    "main.js.map": "/static/js/main.1d00af69.chunk.js.map",
+    "main.css": "/static/css/main.c68e5d64.chunk.css",
+    "main.js": "/static/js/main.587d1b8c.chunk.js",
+    "main.js.map": "/static/js/main.587d1b8c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7b61e083.js",
     "runtime-main.js.map": "/static/js/runtime-main.7b61e083.js.map",
-    "static/js/2.748a2602.chunk.js": "/static/js/2.748a2602.chunk.js",
-    "static/js/2.748a2602.chunk.js.map": "/static/js/2.748a2602.chunk.js.map",
+    "static/js/2.72aa126d.chunk.js": "/static/js/2.72aa126d.chunk.js",
+    "static/js/2.72aa126d.chunk.js.map": "/static/js/2.72aa126d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.26c33c95fe697f74d444bccaef824f07.js": "/precache-manifest.26c33c95fe697f74d444bccaef824f07.js",
+    "precache-manifest.85945fcc2a1b0fcc3b4235598bb324ed.js": "/precache-manifest.85945fcc2a1b0fcc3b4235598bb324ed.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.f793da3f.chunk.css.map": "/static/css/main.f793da3f.chunk.css.map",
-    "static/js/2.748a2602.chunk.js.LICENSE": "/static/js/2.748a2602.chunk.js.LICENSE",
+    "static/css/main.c68e5d64.chunk.css.map": "/static/css/main.c68e5d64.chunk.css.map",
+    "static/js/2.72aa126d.chunk.js.LICENSE": "/static/js/2.72aa126d.chunk.js.LICENSE",
     "static/media/Billgenerator.png": "/static/media/Billgenerator.5f732fc6.png",
     "static/media/Gitcalender.png": "/static/media/Gitcalender.eca89ab7.png",
     "static/media/GoogleTimer.png": "/static/media/GoogleTimer.668e5a3a.png",
@@ -25,6 +25,7 @@
     "static/media/css-3.svg": "/static/media/css-3.d3ad67fa.svg",
     "static/media/flask.svg": "/static/media/flask.9ff4d207.svg",
     "static/media/githubicon.svg": "/static/media/githubicon.5b828af2.svg",
+    "static/media/heroku.svg": "/static/media/heroku.07ac3ab0.svg",
     "static/media/html-5.svg": "/static/media/html-5.24845c5c.svg",
     "static/media/javascript.svg": "/static/media/javascript.87711407.svg",
     "static/media/jquery.svg": "/static/media/jquery.8ec9bacf.svg",
@@ -42,8 +43,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7b61e083.js",
-    "static/js/2.748a2602.chunk.js",
-    "static/css/main.f793da3f.chunk.css",
-    "static/js/main.1d00af69.chunk.js"
+    "static/js/2.72aa126d.chunk.js",
+    "static/css/main.c68e5d64.chunk.css",
+    "static/js/main.587d1b8c.chunk.js"
   ]
 }
