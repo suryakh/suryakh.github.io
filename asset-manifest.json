@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.c68e5d64.chunk.css",
+    "main.css": "/static/css/main.92160c8a.chunk.css",
     "main.js": "/static/js/main.587d1b8c.chunk.js",
     "main.js.map": "/static/js/main.587d1b8c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7b61e083.js",
@@ -8,9 +8,9 @@
     "static/js/2.72aa126d.chunk.js": "/static/js/2.72aa126d.chunk.js",
     "static/js/2.72aa126d.chunk.js.map": "/static/js/2.72aa126d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.85945fcc2a1b0fcc3b4235598bb324ed.js": "/precache-manifest.85945fcc2a1b0fcc3b4235598bb324ed.js",
+    "precache-manifest.4b407c013b028cbe50cd53cea6c38aa2.js": "/precache-manifest.4b407c013b028cbe50cd53cea6c38aa2.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.c68e5d64.chunk.css.map": "/static/css/main.c68e5d64.chunk.css.map",
+    "static/css/main.92160c8a.chunk.css.map": "/static/css/main.92160c8a.chunk.css.map",
     "static/js/2.72aa126d.chunk.js.LICENSE": "/static/js/2.72aa126d.chunk.js.LICENSE",
     "static/media/Billgenerator.png": "/static/media/Billgenerator.5f732fc6.png",
     "static/media/Gitcalender.png": "/static/media/Gitcalender.eca89ab7.png",
@@ -44,7 +44,7 @@
   "entrypoints": [
     "static/js/runtime-main.7b61e083.js",
     "static/js/2.72aa126d.chunk.js",
-    "static/css/main.c68e5d64.chunk.css",
+    "static/css/main.92160c8a.chunk.css",
     "static/js/main.587d1b8c.chunk.js"
   ]
 }
